@@ -22,7 +22,7 @@ title: Profile Field for Data Analysis and Artificial Intelligence
 email: ai.profile.field@gmail.com
 description: "Organizing committee: Kiana Farhadyar, Göran Köber, Martin Treppner, Iman Nematollahi, Mohammad Hossein Yamani and Severin Bang"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://farhadyar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://test_github_pages.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # logo: university_freiburg_logo.png
