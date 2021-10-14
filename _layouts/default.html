@@ -19,9 +19,6 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        {% if site.logo_university %}
-          <img src="{{site.logo_university | relative_url}}" alt="Logo_university" />
-        {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -53,6 +50,9 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% if site.logo_university %}
+          <img src="{{site.logo_university | relative_url}}" alt="Logo_university" />
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
