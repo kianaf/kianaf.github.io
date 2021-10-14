@@ -51,15 +51,16 @@ time.     9:30am – 5:00pm
 
 location. HS 1199 in KG I
 
-speakers. Anne-Laure Boulesteix
-          Ludwig Maximilian University of Munich
+speakers. 
+* Anne-Laure Boulesteix
+  Ludwig Maximilian University of Munich
           
-          Chris Rackauckas
-          Massachusetts Institute of Technology
+* Chris Rackauckas
+ Massachusetts Institute of Technology
           
-          Ruslan Salakhutdinov
-          Carnegie Mellon University
+* Ruslan Salakhutdinov
+  Carnegie Mellon University
           
-          flash talks. Price for the best talk
+flash talks. Price for the best talk
           
-          registration. Register here!
+registration. <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
