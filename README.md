@@ -71,12 +71,12 @@ To be able to achieve our goals we are planning to encourage more members to be 
 <b>Schedule: </b>
 | Time  |  Plan | 
 |---|---|
-|10:00-10:30|Opening speech: by Prof. Dr. Stefan Rensing|
-|10:30-11:30|Invited I: Anne-Laure Boulesteix|
-|11:30-13:00|Lunch Break/Networking|
-|13:00-13:30|Flash Talks|
-|13:30-14:30|Invited II: Ruslan Salakhutdinov|
-|14:30-15:00|Coffee Break/Networking|
-|15:00-16:00|Invited III: Chris Rackauckas|
-|16:00-17:00|Future Outlook|
-|17:00-Inf|Eating/Drinking together|
+| 10:00-10:30 | Opening speech: by Prof. Dr. Stefan Rensing |
+| 10:30-11:30 | Invited I: Anne-Laure Boulesteix |
+| 11:30-13:00 | Lunch Break/Networking |
+| 13:00-13:30 | Flash Talks |
+| 13:30-14:30 | Invited II: Ruslan Salakhutdinov |
+| 14:30-15:00 | Coffee Break/Networking |
+| 15:00-16:00 | Invited III: Chris Rackauckas |
+| 16:00-17:00 | Future Outlook |
+| 17:00-Inf | Eating/Drinking together |
