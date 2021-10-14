@@ -42,3 +42,17 @@ Our mission is to create, grow, and sustain a collaborative environment for Ph.D
 ### Strategy
 
 To be able to achieve our goals we are planning to encourage more members to be part of our community and hold workshops and science slams, invite keynote speakers, plan leisure time together to make the environment more friendly. As the first step, we have designed a short survey to know more about the preferences and how much time the members want to spend to participate in the community plans. After gathering this information, we are able to define some measurable operational goals.
+
+### Episode 1
+
+date.     November 12th, 2021
+time.     9:30am – 5:00pm
+location. HS 1199 in KG I
+speakers. Anne-Laure Boulesteix
+          Ludwig Maximilian University of Munich
+          Chris Rackauckas
+          Massachusetts Institute of Technology
+          Ruslan Salakhutdinov
+          Carnegie Mellon University
+          flash talks. Price for the best talk
+          registration. Register here!
