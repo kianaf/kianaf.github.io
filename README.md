@@ -46,13 +46,20 @@ To be able to achieve our goals we are planning to encourage more members to be 
 ### Episode 1
 
 date.     November 12th, 2021
+
 time.     9:30am – 5:00pm
+
 location. HS 1199 in KG I
+
 speakers. Anne-Laure Boulesteix
           Ludwig Maximilian University of Munich
+          
           Chris Rackauckas
           Massachusetts Institute of Technology
+          
           Ruslan Salakhutdinov
           Carnegie Mellon University
+          
           flash talks. Price for the best talk
+          
           registration. Register here!
