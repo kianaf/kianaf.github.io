@@ -69,6 +69,7 @@ To be able to achieve our goals we are planning to encourage more members to be 
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
 
 <b>Schedule: </b>
+
 | Time  |  Plan | 
 |---|---|
 | 10:00-10:30 | Opening speech: by Prof. Dr. Stefan Rensing |
