@@ -52,17 +52,11 @@ To be able to achieve our goals we are planning to encourage more members to be 
 <b>Location:</b> HS 1199 in KG I
 
 <b>Speakers:</b> 
-* Anne-Laure Boulesteix
-
-  *Ludwig Maximilian University of Munich*
+* Anne-Laure Boulesteix (*Ludwig Maximilian University of Munich*)
           
-* Chris Rackauckas
-
-  *Massachusetts Institute of Technology*
+* Chris Rackauckas (*Massachusetts Institute of Technology*)
           
-* Ruslan Salakhutdinov
-
-  *Carnegie Mellon University*
+* Ruslan Salakhutdinov (*Carnegie Mellon University*)
           
 <b>Flash Talks:</b> Prize for the best talk
           
