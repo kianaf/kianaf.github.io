@@ -26,7 +26,7 @@ url: "https://kianaf.github.io/" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 # logo: university_freiburg_logo.png
-logo_university: university_freiburg_logo_resized.png
+logo_university: university_freiburg_logo.png
 logo: logo.jpg
 
 # Build settings
